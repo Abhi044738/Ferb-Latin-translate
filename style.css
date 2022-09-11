@@ -1,0 +1,104 @@
+
+body{
+    background-color :white;
+    margin: 0rem 1rem;
+    max-width: 99.99%;
+    place-content: center;
+}
+h1{
+    background-color:#F2EC9B;
+    color: aliceblue;
+    padding: 3rem;
+    border-end-end-radius: 2rem;
+    font-size: 500%;
+    margin: 0rem 0rem;
+    margin-bottom: 5rem;
+}
+textarea {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height:20vh;
+    display: block;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    color: #96FFBD;
+    background-color: white;
+    font-size: 1.5rem;
+   
+}
+
+#output {
+    margin: auto;
+    border: 1px solid black;
+    height: 20vh;
+    width: 90%;
+    resize: auto;
+    padding: 1rem; 
+    color: #96FFBD;
+    font-size: 1.5rem;
+}
+.center{
+    height: 3rem;
+}
+.btn{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+button{
+    max-width:max-content;
+    place-items: center;
+    background-color:  #96FFBD;
+    font-size: 2rem;
+
+    
+}
+.outputheading{
+    font-size:xx-large;
+}
+
+hr{
+    margin: 5rem 0rem;
+}
+
+
+
+
+
+.containor{
+    text-align: center;
+    
+
+}
+
+
+footer{
+    background-color: #F2EC9B;
+    padding: 0.5rem;
+    border-end-end-radius: 2rem;
+    font-size:larger;
+    margin: 0rem 0rem;
+    margin-top: 1rem;
+}
+
+.footer-margin{
+    padding:0.5rem 0.5rem;
+    text-align: center;
+}
+.unorder-inline-list{
+    display:inline;
+    padding: 0rem 0.5rem;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.textinlarge{
+    font-size: 2.5rem;
+}
